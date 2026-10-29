@@ -1,4 +1,10 @@
 #PROYECTO FINAL 
-Constanza Smaha
+*Constanza Smaha*
 **voy a realizar un organizador y unificador de PDFs**
-Sirve para juntar y organifar PDFs de un mismo tema en uno solo
+
+El Organizador de PDFs es un programa
+desarrollado en Python que permite unir
+varios archivos PDF en uno solo.
+
+Busca los documentos, los ordena
+alfabéticamente y genera un archivo final.
